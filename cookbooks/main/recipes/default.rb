@@ -44,3 +44,5 @@
 #require_recipe "ntp"
 #
 #require_recipe "logrotate"
+
+require_recipe "cron"
